@@ -8,13 +8,13 @@ Ayrıca, her gezegende ve uzayda özgün bir müzik tasarımı yaptık. Takım a
 
 Oyun, **Godot oyun motoru** (Godot Engine) kullanılarak geliştirilmiştir ve **GD-script** diliyle yazılmıştır. Oyunun klavye kontrolü **Arduino** ile yapılırken, joystick kontrolü de sağlanmıştır. Ayrıca, ivme (gyro) sensörü ile de testler yapılmıştır. Fakat gerçek hayatta, oyun formatına uygun olarak uzayda joystick ile kontrol daha verimli olacaktır. Bunun için **Arduino** ile **Python** arasında seri haberleşme sağladık ve normalde **W, A, S, D** yerine joystick'in X ve Y eksenlerini kullandık. Zıplamak için bir buton ekledik, ancak bu butonun tepki süresi çok hassas değildi.
 
-Proje, **NASA Apps Challenge 2024** etkinliği için **Gebze**'de gerçekleştirilen bir hackathon sürecinde geliştirilmiştir. Etkinlik süresince sadece 36 saatlik bir süremiz olduğu için, formatı en uygun şekilde bu kadarını yapabildik. Projede görev alanlar:
+Proje, **NASA Apps Challenge 2024** etkinliği için **Gebze**'de gerçekleştirilen bir hackathon sürecinde geliştirilmiştir. Etkinlik süresince sadece 36 saatlik bir süremiz olduğu için, formatı en uygun şekilde bu kadarını yapabildik. Projede görev alan arkadaşlarım ve görevleri:
 
-- **[Toprak Yozgatlıoğlu]: Level design (seviye tasarımı)
-- **[Burak Demir]: Oyun formatına uygun makalelerin hazırlanması
-- **[Behiç Çelebi](https://github.com/behiccelebi)** ve **[Murat Biçici](https://github.com/muratbicici)**: Godot oyun motoru ve ana kodların yazılması
-- **[Çağatay Altıntopaç](https://github.com/cagatayaltintopac)**: Müziklerin özgün bir şekilde oluşturulması (FL Studio kullanarak) ve gezegenlerin formatına uygun şekilde yapılması, ayrıca Arduino ile bilgisayar etkileşiminin yönetilmesi
-- **[Sadık](https://github.com/sadik)**: Arduino-Python seri haberleşmesinin kurulması ve projenin düzgün bir şekilde formata uygun olarak yapılması ve yönetilmesi.
+- **Toprak Yozgatlıoğlu: Level design (seviye tasarımı)
+- **Burak Demir: Oyun formatına uygun makalelerin hazırlanması
+- **[Behiç Çelebi](https://github.com/Behicelebi)** ve **[Murat Biçici](https://github.com/MuratBicici)**: Godot oyun motoru ve ana kodların yazılması
+- **[Çağatay Altıntopaç](https://github.com/jagataix)**: Müziklerin özgün bir şekilde oluşturulması (FL Studio kullanarak) ve gezegenlerin formatına uygun şekilde yapılması, ayrıca Arduino ile bilgisayar etkileşiminin yönetilmesi
+-  Benim görevim ise Arduino-Python seri haberleşmesinin kurulması ve projenin düzgün bir şekilde formata uygun olarak yapılması ve yönetilmesi.
 
 ---
 
