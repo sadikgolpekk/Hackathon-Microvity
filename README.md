@@ -18,6 +18,10 @@ Proje, **NASA Apps Challenge 2024** etkinliği için **Gebze**'de gerçekleştir
 
 ---
 
+![SimurgTakim](https://github.com/user-attachments/assets/d124dcef-679c-4a3a-b74e-782433047048)
+
+
+
 ### **Mikroyerçekimi Nedir?**
 
 **Mikroyerçekimi**, dünyadaki yerçekiminin çok daha zayıf olduğu, ancak tamamen yok olmadığı bir ortamı ifade eder. Uzayda ve çok yüksek irtifalarda, yerçekimi hala mevcut olmasına rağmen, bu kuvvet çok daha zayıftır. Astronotlar, uzayda **mikroyerçekimi** ortamında "ağırsızlık" hissi yaşarlar çünkü her şey, uzay istasyonu ile birlikte aynı hızda hareket eder.
@@ -61,3 +65,6 @@ Oyunumuz, sadece eğlenceli bir deneyim sunmakla kalmayıp, astronotların uzayd
 Oyunumuzun demo videosunu izlemek için aşağıdaki bağlantıyı kullanabilirsiniz:
 
 [**Microvity Game Demo**](https://youtu.be/OYuDLIv1F2k?si=i3UzsJxv6dETDeoe)
+
+
+
