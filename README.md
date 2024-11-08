@@ -11,7 +11,7 @@ Oyun, **Godot oyun motoru** (Godot Engine) kullanılarak geliştirilmiştir ve *
 Proje, **NASA Apps Challenge 2024** etkinliği için **Gebze**'de gerçekleştirilen bir hackathon sürecinde geliştirilmiştir. Etkinlik süresince sadece 36 saatlik bir süremiz olduğu için, formatı en uygun şekilde bu kadarını yapabildik. Projede görev alan arkadaşlarım ve görevleri:
 
 - **Toprak Yozgatlıoğlu: Level design (seviye tasarımı)
-- **Burak Demir: Oyun formatına uygun makalelerin hazırlanması
+- **[Burak Demir](https://github.com/gitwithburak): Oyun formatına uygun makalelerin hazırlanması
 - **[Behiç Çelebi](https://github.com/Behicelebi)** ve **[Murat Biçici](https://github.com/MuratBicici)**: Godot oyun motoru ve ana kodların yazılması
 - **[Çağatay Altıntopaç](https://github.com/jagataix)**: Müziklerin özgün bir şekilde oluşturulması (FL Studio kullanarak) ve gezegenlerin formatına uygun şekilde yapılması, ayrıca Arduino ile bilgisayar etkileşiminin yönetilmesi
 -  Benim görevim ise Arduino-Python seri haberleşmesinin kurulması ve projenin düzgün bir şekilde formata uygun olarak yapılması ve yönetilmesi.
