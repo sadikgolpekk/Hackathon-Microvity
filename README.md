@@ -1,5 +1,7 @@
 # "Microvity Game"
 
+![cdf7b1b1fc566f62a6a55c298ea9a725](https://github.com/user-attachments/assets/1527180f-5762-489f-976b-ba3d6bc1d1ae)
+
 Simurg Takımı olarak, bu proje, **Gebze**'de gerçekleştirilen **NASA Apps Challenge 2024** etkinliği için **Kocaeli Üniversitesi** öğrencileri tarafından oluşturulmuştur. Bizden, astronotların ruhsal sağlığını olumlu yönde etkileyecek ve onları eğlendirecek bir oyun yapmamız, aynı zamanda mikroyerçekimi ortamını öğretmemiz istendi. NASA'nın yayınladığı makaleleri inceleyerek, mikroyerçekimi ve uzayda geçen süre zarfındaki etkiler üzerine daha derin bir anlayış geliştirdik. Biz de, uygun tasarımlar ile mikroyerçekimi ortamını öğretecek bir oyun geliştirdik.
 
 Çeşitli gezegenleri öğretici bir şekilde tasarladık ve her gezegenin yerçekimi değerine göre bir mikroyerçekimi barı oluşturduk. Uzayda uzun süre kaldıkça bu bar artıyor ve gittiğimiz diğer gezegenlerde bu etki, karakterimizin yavaşlamasına yol açıyor. Gerçek hayatta bunun etkilerini kas kütlesinin zayıflaması olarak düşünebilirsiniz. Yani, uzayda uzun süre kaldıkça mikroyerçekiminin etkileri fiziksel sonuçlar doğurur.
