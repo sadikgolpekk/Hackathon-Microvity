@@ -8,6 +8,8 @@ Ayrıca, her gezegende ve uzayda özgün bir müzik tasarımı yaptık. Takım a
 
 Oyun, **Godot oyun motoru** (Godot Engine) kullanılarak geliştirilmiştir ve **GD-script** diliyle yazılmıştır. Oyunun klavye kontrolü **Arduino** ile yapılırken, joystick kontrolü de sağlanmıştır. Ayrıca, ivme (gyro) sensörü ile de testler yapılmıştır. Fakat gerçek hayatta, oyun formatına uygun olarak uzayda joystick ile kontrol daha verimli olacaktır. Bunun için **Arduino** ile **Python** arasında seri haberleşme sağladık ve normalde **W, A, S, D** yerine joystick'in X ve Y eksenlerini kullandık. Zıplamak için bir buton ekledik, ancak bu butonun tepki süresi çok hassas değildi.
 
+![Ekran görüntüsü 2025-01-09 141655](https://github.com/user-attachments/assets/67d7d2f3-a198-438f-b3ca-7435985ec98b)
+
 Proje, **NASA Apps Challenge 2024** etkinliği için **Gebze**'de gerçekleştirilen bir hackathon sürecinde geliştirilmiştir. Etkinlik süresince sadece 36 saatlik bir süremiz olduğu için, formatı en uygun şekilde bu kadarını yapabildik. Projede görev alan arkadaşlarım ve görevleri:
 
 - **Toprak Yozgatlıoğlu: Level design (seviye tasarımı)
